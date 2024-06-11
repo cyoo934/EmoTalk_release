@@ -1,0 +1,8 @@
+# Ignore all test files
+*.pth
+*.pyc
+*.npy
+*.mp4
+
+# Ignore installed blender
+/blender/
